@@ -1,7 +1,5 @@
 # Zacch Lines
 
-I am reading for an MSc in Financial Engineering from EDHEC and hold a first-class Mathematics degree from Durham University. With hands-on experience in financial markets, I developed Python-based risk tools during my internship for a Multi-Family Office in Singapore and applied machine learning techniques at NatWest in London to optimise data-driven solutions. My expertise lies in volatility modelling, derivatives pricing, and market microstructures, complemented by a strong ability to solve complex problems and deliver results in high-pressure environments.
-
 – MSc Financial Engineering, EDHEC  
 – BSc Mathematics, Durham University  
 📫 zaccheus.lines@hotmail.com  
@@ -14,8 +12,7 @@ I am reading for an MSc in Financial Engineering from EDHEC and hold a first-cla
 ## Background
 
 I hold a first-class degree in Mathematics from Durham University and am currently completing a Master’s in Financial Engineering at EDHEC. My academic background includes stochastic processes, statistical modeling, and numerical methods — which form the basis of my work in financial markets.
-
-My interests lie in building and applying models for pricing, hedging, and risk measurement — with a particular focus on volatility surfaces and quantitative derivatives strategies.
+With hands-on experience in financial markets, I developed Python-based risk tools during my internship for a Multi-Family Office in Singapore and applied machine learning techniques at NatWest in London to optimise data-driven solutions. My expertise lies in volatility modelling, derivatives pricing, and market microstructures, complemented by a strong ability to solve complex problems and deliver results in high-pressure environments.
 
 ---
 
