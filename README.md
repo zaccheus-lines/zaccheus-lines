@@ -2,8 +2,8 @@
 
 Quantitative researcher with a strong foundation in mathematics and applied computing. I am currently pursuing an MSc in Financial Engineering at EDHEC Business School, where I focus on derivatives pricing, risk modeling, and portfolio construction.
 
-– MSc Financial Engineering, EDHEC
-– BSc Mathematics, Durham University
+– MSc Financial Engineering, EDHEC \\
+– BSc Mathematics, Durham University \\
 📫 zaccheus.lines@hotmail.com | +44 7487 821133  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/your-github)
 
