@@ -1,6 +1,6 @@
 # Zacch Lines
 
-Quantitative researcher with a strong foundation in mathematics and applied computing. I am currently pursuing an MSc in Financial Engineering at EDHEC Business School, where I focus on derivatives pricing, risk modeling, and portfolio construction.
+I am reading for an MSc in Financial Engineering from EDHEC and hold a first-class Mathematics degree from Durham University. With hands-on experience in financial markets, I developed Python-based risk tools during my internship for a Multi-Family Office in Singapore and applied machine learning techniques at NatWest in London to optimise data-driven solutions. My expertise lies in volatility modelling, derivatives pricing, and market microstructures, complemented by a strong ability to solve complex problems and deliver results in high-pressure environments.
 
 – MSc Financial Engineering, EDHEC
 – BSc Mathematics, Durham University
