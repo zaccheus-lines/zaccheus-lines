@@ -1,8 +1,9 @@
 # Zacch Lines
 
-Quantitative researcher with a strong foundation in mathematics and applied computing. My work focuses on risk modeling, derivatives pricing, and statistical methods in financial markets.
+Quantitative researcher with a strong foundation in mathematics and applied computing. I am currently pursuing an MSc in Financial Engineering at EDHEC Business School, where I focus on derivatives pricing, risk modeling, and portfolio construction.
 
-📍 MSc Financial Engineering, EDHEC  
+– MSc Financial Engineering, EDHEC
+– BSc Mathematics, Durham University
 📫 zaccheus.lines@hotmail.com | +44 7487 821133  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/your-github)
 
@@ -10,7 +11,9 @@ Quantitative researcher with a strong foundation in mathematics and applied comp
 
 ## Background
 
-First-class mathematics graduate with experience applying quantitative methods in financial environments. My academic training spans probability theory, stochastic calculus, and statistical computing — areas which underpin my work in derivatives analytics and model implementation.
+I hold a first-class degree in Mathematics from Durham University and am currently completing a Master’s in Financial Engineering at EDHEC. My academic background includes stochastic processes, statistical modeling, and numerical methods — which form the basis of my work in financial markets.
+
+My interests lie in building and applying models for pricing, hedging, and risk measurement — with a particular focus on volatility surfaces and quantitative derivatives strategies.
 
 ---
 
@@ -36,8 +39,20 @@ _London, Jul–Dec 2023_
 
 ## Technical Skills
 
-```text
-Mathematics:   Stochastic Processes, Numerical Methods, Probability, Optimization  
-Programming:   Python, C++ (OpenMP), SQL, VBA, R, Git  
-Libraries:     NumPy, Pandas, SciPy, QuantLib, TensorFlow  
-Tools:         Bloomberg API, Jupyter, LaTeX, Excel
+**Programming & Tools**  
+Python (TensorFlow, Pandas, SciPy, QuantLib), C++ (OpenMP), R, SQL, VBA, Excel, Git, Bloomberg.
+
+**Financial Modelling**  
+Monte Carlo, VaR, GARCH, Sensitivity Analysis, Vasicek Model, Rough Volatility, Jump Diffusion.
+
+**Markets & Products**  
+Interest Rate Derivatives (IRD), FX Derivatives, Credit Derivatives, Swaps, Equity Derivatives, Structured Notes.
+
+**Mathematics & Analytics**  
+Stochastic Processes, Probability, Optimization, Numerical Methods, Statistical Computing.
+
+---
+
+## Interests
+
+Sailing, Violin (Grade 8), Chorister, Chess, Award-Winning Podcaster.
