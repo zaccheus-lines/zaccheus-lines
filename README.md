@@ -2,8 +2,8 @@
 
 – MSc Financial Engineering, EDHEC  
 – BSc Mathematics, Durham University  
-📫 zaccheus.lines@hotmail.com  
-📞 +44 7487 821133  
+– zaccheus.lines@hotmail.com  
+– +44 7487 821133  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
 🔗 [GitHub](https://github.com/your-github)
 
