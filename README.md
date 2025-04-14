@@ -3,9 +3,8 @@
 – MSc Financial Engineering, EDHEC Business School  
 – BSc Mathematics (First Class Honours), Durham University  
 📧 zaccheus.lines@hotmail.com • 📞 +44 7487 821133  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-🔗 [GitHub](https://github.com/your-github)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/zacch-lines/)  
+🔗 [GitHub](https://github.com/zaccheus-lines/)
 ---
 
 ## 📄 Documents
