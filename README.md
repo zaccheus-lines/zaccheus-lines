@@ -1,57 +1,67 @@
 # Zacch Lines
 
-– MSc Financial Engineering, EDHEC  
-– BSc Mathematics, Durham University  
-– zaccheus.lines@hotmail.com  
-– +44 7487 821133  
+– MSc Financial Engineering, EDHEC Business School  
+– BSc Mathematics (First Class Honours), Durham University  
+📧 zaccheus.lines@hotmail.com • 📞 +44 7487 821133  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
 🔗 [GitHub](https://github.com/your-github)
 
 ---
 
-## Background
+## 📄 Documents
 
-I hold a first-class degree in Mathematics from Durham University and am currently completing a Master’s in Financial Engineering at EDHEC. My academic background includes stochastic processes, statistical modeling, and numerical methods — which form the basis of my work in financial markets.
-With hands-on experience in financial markets, I developed Python-based risk tools during my internship for a Multi-Family Office in Singapore and applied machine learning techniques at NatWest in London to optimise data-driven solutions. My expertise lies in volatility modelling, derivatives pricing, and market microstructures, complemented by a strong ability to solve complex problems and deliver results in high-pressure environments.
+- 📌 [Curriculum Vitae (PDF)](./docs/Zacch_Lines_CV.pdf)
+- 📎 [Technical Portfolio (PDF)](./docs/Zacch_Lines_Technical_Portfolio.pdf)
 
 ---
 
-## Experience
+## 👋 About Me
 
-**Aglaia Investment Management** – *Quantitative Investment Analyst*  
-_Singapore, Jul–Aug 2024_
+Quantitative researcher with a strong foundation in mathematics and programming, currently completing an MSc in Financial Engineering. My focus lies in volatility modelling, derivative pricing, and risk analytics, with hands-on experience in rough volatility, deep learning, and GARCH-based modelling. I bring a rigorous academic background together with industry experience across asset management and banking, and I am particularly passionate about research-driven approaches to market risk and quantitative strategy.
 
-- Built and deployed a GARCH-based risk model across 30 portfolios ($4B AUM).
-- Automated client monitoring tools in VBA, reducing processing time from 3 days to 2 hours.
-- Developed a Python tool for extracting risk-neutral densities from volatility smiles.
-- Worked closely with traders and risk managers to align model outputs with decision-making.
+---
+
+## 💼 Experience
+
+**Aglaia Investment Management** – *Quantitative Risk Analyst*  
+📍 Singapore | Jul 2024 – Aug 2024  
+- Engineered a GARCH risk model, enhancing risk assessment across 30 portfolios totalling over $4B.  
+- Automated portfolio monitoring in VBA, reducing processing from 3 days to 2 hours across 3 PMs.  
+- Built a Python tool to compute risk-neutral densities from volatility smiles for equity derivatives.  
+- Worked closely with traders and the risk team to align analytics with real-time decision-making.  
 
 **NatWest Group** – *Machine Learning Engineer*  
-_London, Jul–Dec 2023_
+📍 London, UK | Jul 2023 – Dec 2023  
+- Developed a carbon dashboard with Python and SQL for test-plan sustainability assessment.  
+- Created a tree-search algorithm for a 12M+ row database, automating key performance metrics.  
+- Presented technical findings to both technical and non-technical stakeholders.  
+- Balanced multiple project streams and deadlines in an agile development setting.  
 
-- Designed a Python and SQL-based system to evaluate test-plan sustainability.
-- Created a tree-search algorithm for a 12M+ row database, improving operational efficiency.
-- Delivered technical presentations across teams, translating model outputs for stakeholders.
-- Managed multiple projects concurrently in a high-paced development environment.
-
----
-
-## Technical Skills
-
-**Programming & Tools**  
-Python (TensorFlow, Pandas, SciPy, QuantLib), C++ (OpenMP), R, SQL, VBA, Excel, Git, Bloomberg.
-
-**Financial Modelling**  
-Monte Carlo, VaR, GARCH, Sensitivity Analysis, Vasicek Model, Rough Volatility, Jump Diffusion.
-
-**Markets & Products**  
-Interest Rate Derivatives (IRD), FX Derivatives, Credit Derivatives, Swaps, Equity Derivatives, Structured Notes.
-
-**Mathematics & Analytics**  
-Stochastic Processes, Probability, Optimization, Numerical Methods, Statistical Computing.
+**Durham University Finance Society** – *Quantitative Analyst*  
+📍 Durham, UK | Jan 2023 – Jan 2024  
+- Developed a delta hedging strategy using options market data via Bloomberg API.  
+- Participated in regular trading strategy and high-frequency trading (HFT) workshops.  
 
 ---
 
-## Interests
+## 🧠 Research Interests
 
-Sailing, Violin (Grade 8), Chorister, Chess, Award-Winning Podcaster.
+- **Deep Hedging under Rough Volatility:** Built and trained RNNs (GRU, LSTM) on rBergomi model simulations to optimise hedge strategies with and without transaction costs.  
+- **Stochastic Volatility & Smile Modelling:** Designed tools to extract risk-neutral densities from implied volatility surfaces.  
+- **Portfolio Risk Models:** Implemented GARCH, CVaR, and Monte Carlo methods across portfolios for real-time risk evaluation.  
+- **Fixed Income & Yield Curves:** Constructed spot and forward curves using Nelson-Siegel-Svensson and spline techniques.
+
+---
+
+## 💻 Technical Skills
+
+**Programming**: Python (TensorFlow, NumPy, Pandas, QuantLib), C++ (OpenMP), R, SQL, VBA, Git  
+**Quant Modelling**: Monte Carlo, VaR, CVaR, GARCH, Delta Hedging, Rough Volatility  
+**Markets & Products**: Interest Rate Derivatives, FX Options, Credit Derivatives, Equity Derivatives, Structured Notes  
+**Mathematics**: Stochastic Processes, Optimisation, Numerical Methods, Probability Theory
+
+---
+
+## 🎻 Interests
+
+Sailing, Violin (Grade 8), Former Chorister, Chess, Award-Winning Podcaster
