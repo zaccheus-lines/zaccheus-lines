@@ -5,6 +5,7 @@
 📧 zaccheus.lines@hotmail.com • 📞 +44 7487 821133  
 🔗 [LinkedIn](https://www.linkedin.com/in/zacch-lines/)  
 🔗 [GitHub](https://github.com/zaccheus-lines/)
+
 ---
 
 ## 📄 Documents
