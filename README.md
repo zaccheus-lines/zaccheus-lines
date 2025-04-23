@@ -10,7 +10,7 @@
 
 ## 📄 Documents
 
-- 📌 [CV](./docs/Zacch_Lines_CV.pdf)
+- 📌 [CV](./docs/CV.pdf)
 - 📎 [Technical Portfolio (PDF)](./docs/Zacch_Lines_Technical_Portfolio.pdf)
 
 ---
